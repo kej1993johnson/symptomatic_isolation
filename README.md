@@ -1,0 +1,1 @@
+# symptomatic_isolation
